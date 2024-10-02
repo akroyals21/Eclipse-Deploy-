@@ -4,7 +4,7 @@ This guide outlines the steps for deploying on the Eclipse network.
 
 ## CREDIT
 
-**Credits to**:  [ZUN](x.com/Zunxbt) This guide is based on Zun's original guide, with a significant modification allowing you to import your private key directly from your old wallet, enhancing your interactions with your old wallet.
+**Credits to**:  [ZUN](x.com/ZunXBT) This guide is based on Zun's original guide, with a significant modification allowing you to import your private key directly from your old wallet, enhancing your interactions with your old wallet.
 
 ## Prerequisites
 
@@ -48,6 +48,9 @@ To bridge Ethereum from the Ethereum Mainnet to Eclipse, visit:
 `[DO GIVE A STAR TO MY REPO ]`
 
 ##  Thank You! ??
+
+Do follow me as a token of appreciation
+[mustanda](x.com/mustanda2302)
  
 
 If you have any suggestions, issues, or ideas, feel free to open an issue or submit a pull request. Let's build something amazing together!
