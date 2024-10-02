@@ -10,8 +10,15 @@ This guide outlines the steps for deploying on the Eclipse network.
 A)   Download the deployment script using `curl` and save it as `eclipse.sh`:
    ```bash
    (curl -O https://raw.githubusercontent.com/akroyals21/Eclipse-DEPLOY/refs/heads/main/eclipse.sh)
-B.) (chmod +x eclipse.sh)
-C.)(./eclipse.sh)
+B.) 
+
+```bash
+ (chmod +x eclipse.sh)
+
+C.)
+```bash
+ (./eclipse.sh)
+
 2. **Follow the Prompts**:
    - The script will prompt you with options numbered from 1 to 5. Execute opti>
    - Choose option 5 to exit if no further deployment is needed.
