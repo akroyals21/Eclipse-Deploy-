@@ -1,23 +1,24 @@
 # Eclipse Deployment Guide
+
 This guide outlines the steps for deploying on the Eclipse network.
+
 ## Prerequisites
-1. **Bridge ETH**: You must bridge ETH into either the Eclipse Mainnet or Testn>
+
+1. **Bridge ETH**: You must bridge ETH into either the Eclipse Mainnet or Testnet.
    - Use the [Bridge Validator](https://bridge.validators.wtf/) for this step.
+
 2. **Generate Metadata URL**:
-   - Use the [ZunxBT Metadata Generator](https://zunxbt.github.io/Eclipse/) to >
+   - Use the [ZunxBT Metadata Generator](https://zunxbt.github.io/Eclipse/) to generate your metadata URL. Save the credentials as they will be required during code execution.
+
 ## Deployment Instructions
-1. **Download the Deployment Script**:
-A)   Download the deployment script using `curl` and save it as `eclipse.sh`:
+
+1. **Download the Deployment Script**:  
+   Download the deployment script using `curl` and save it as `eclipse.sh`:
    ```bash
-   (curl -O https://raw.githubusercontent.com/akroyals21/Eclipse-DEPLOY/refs/heads/main/eclipse.sh)
-B.) 
+   curl -O https://raw.githubusercontent.com/akroyals21/Eclipse-DEPLOY/refs/heads/main/eclipse.sh
 
-```bash
- (chmod +x eclipse.sh)
-
-C.)
-```bash
- (./eclipse.sh)
+   chmod +x eclipse.sh
+   ./eclipse.sh
 
 2. **Follow the Prompts**:
    - The script will prompt you with options numbered from 1 to 5. Execute opti>
