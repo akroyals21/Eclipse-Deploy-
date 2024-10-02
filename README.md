@@ -28,14 +28,27 @@ This guide outlines the steps for deploying on the Eclipse network.
 - If you have previously performed testnet operations, you may have a private k>
   `[1, 2, 3, ..., 64]`
 - If you have this private key, proceed with the import.
-- If you do not have the key, create a new wallet. Upon creation, you will rece>
+- If you do not have the key, create a new wallet. Upon creation, you will receive the pubkey into which you bridge in funds and sorry for the inconvenience  please go to last instruction and follow it to import key into which eth is to be bridged at certain fee of 6-10 $ DEPENDING ON GWEI
 ### Bridging Ethereum
 To bridge Ethereum from the Ethereum Mainnet to Eclipse, visit:
 [Bridge Validators](https://bridge.validators.wtf/).
 ### Import Private Key
-1. After exiting the directory (by selecting option 5), run the following comma>
+1. After exiting the directory (by selecting option 5), run the following command>
    ```bash
    cat $HOME/solana_keypairs/eclipse-new.json
 
-Credits
-Credits to x.com/Zunxbt. This guide is based on Zun's original guide, with a significant modification allowing you to import your private key directly from your old wallet, enhancing your interactions with your old wallet.
+#CREDIT
+
+**Credits to**:  [ZUN](x.com/Zunxbt) This guide is based on Zun's original guide, with a significant modification allowing you to import your private key directly from your old wallet, enhancing your interactions with your old wallet.
+
+Please follow me on [github](github.com/akroyals21) as well as a token of appreciation
+
+`[And do give a star to my repo]`
+
+## ?? Thank You!
+ 
+
+If you have any suggestions, issues, or ideas, feel free to open an issue or submit a pull request. Let's build something amazing together!
+
+Happy coding! ?? Along with [ZunXBT](https://github.com/zunxbt)
+
