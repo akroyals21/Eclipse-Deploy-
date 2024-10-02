@@ -4,9 +4,11 @@ This guide outlines the steps for deploying on the Eclipse network.
 
 ## Prerequisites
 
-1. **Bridge ETH**: You must bridge ETH into either the Eclipse Mainnet or Testnet using your existing wallet.- Use the [Bridge Validator](https://bridge.validators.wtf/) for this step.
+1.**System**: Use any linux based system be it ubuntu(preferably),vps,codespaces,etc.
 
-2. **Generate Metadata URL**:
+2. **Bridge ETH**: You must bridge ETH into either the Eclipse Mainnet or Testnet using your existing wallet.- Use the [Bridge Validator](https://bridge.validators.wtf/) for this step.
+
+3. **Generate Metadata URL**:
    - Use the [ZunxBT Metadata Generator](https://zunxbt.github.io/Eclipse/) to generate your metadata URL. Save the credentials as they will be required during code execution.
 
 ## Deployment Instructions
@@ -28,7 +30,7 @@ This guide outlines the steps for deploying on the Eclipse network.
 - If you have previously performed testnet operations, you may have a private k>
   `[1, 2, 3, ..., 64]`
 - If you have this private key, proceed with the import.
-- If you do not have the key, create a new wallet. Upon creation, you will receive the pubkey into which you bridge in funds and sorry for the inconvenience  please go to last instruction and follow it to import key into which eth is to be bridged at certain fee of 6-10 $ DEPENDING ON GWEI
+- If you do not have the key, create a new wallet. Upon creation, you will receive the pubkey into which you bridge in funds and sorry for the inconvenience  please go to last instruction and follow it to import key into which eth is to be bridged at certain fee of 6-10 $ DEPENDING ON GWEI .use [BACPACK WALLET](https://chromewebstore.google.com/detail/backpack/aflkmfhebedbjioipglgcbcmnbpgliof)
 ### Bridging Ethereum
 To bridge Ethereum from the Ethereum Mainnet to Eclipse, visit:
 [Bridge Validators](https://bridge.validators.wtf/).
