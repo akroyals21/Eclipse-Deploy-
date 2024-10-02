@@ -31,7 +31,7 @@ This guide outlines the steps for deploying on the Eclipse network.
    - Choose option 5 to exit if want no further deployments.
 ## Wallet Setup
 ### Importing an Old Wallet
-- If you have previously performed testnet operations, you may have a private k>
+- If you have previously performed testnet operations, you may have a private key in byte array form retrieved from solana cli in the form of
   `[1, 2, 3, ..., 64]`
 - If you have this private key, proceed with the import.
 - If you do not have the key, create a new wallet. Upon creation, you will receive the pubkey into which you bridge in funds and sorry for the inconvenience  please go to last instruction and follow it to import key into which eth is to be bridged at certain fee of 6-10 $ DEPENDING ON GWEI .use [BACPACK WALLET](https://chromewebstore.google.com/detail/backpack/aflkmfhebedbjioipglgcbcmnbpgliof)
