@@ -27,8 +27,8 @@ This guide outlines the steps for deploying on the Eclipse network.
    ./eclipse.sh
 
 2. **Follow the Prompts**:
-   - The script will prompt you with options numbered from 1 to 5. Execute opti>
-   - Choose option 5 to exit if no further deployment is needed.
+   - The script will prompt you with options numbered from 1 to 5. Execute options one by one i.e. 1) then 2).....4)
+   - Choose option 5 to exit if want no further deployments.
 ## Wallet Setup
 ### Importing an Old Wallet
 - If you have previously performed testnet operations, you may have a private k>
