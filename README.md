@@ -4,7 +4,7 @@ This guide outlines the steps for deploying on the Eclipse network.
 
 ## Prerequisites
 
-1.**System**: Use any linux based system be it ubuntu(preferably),vps,codespaces,etc.
+1. **System**: Use any linux based system be it ubuntu(preferably),vps,codespaces,etc.
 
 2. **Bridge ETH**: You must bridge ETH into either the Eclipse Mainnet or Testnet using your existing wallet.- Use the [Bridge Validator](https://bridge.validators.wtf/) for this step.
 
